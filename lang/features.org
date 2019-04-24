@@ -10,7 +10,7 @@
 * Polymorphic Variants
 
 
-  There are three different kinds of varints /[< ... ], [...], [> ...]/.
+  There are three different kinds of variants /[< ... ], [...], [> ...]/.
   They are subtly different in terms of =unification= and =coercion=.
   First, let's consider the cases coercion happens, there are nine cases
   together
